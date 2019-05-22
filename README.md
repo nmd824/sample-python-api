@@ -1,7 +1,7 @@
 # Customer Data Model
 I've created a SQL file to create this table as well as some sample data in the folder "Customer Data Model".
 
-The SQL query to names of the youngest customers is also in the "Customer Data Model" folder.
+The SQL query to get the names of the youngest customers is also in the "Customer Data Model" folder.
 
 # Basic JSON API App
 In order to run, there has to be a database called "gigacover" and a table called "customers". 
