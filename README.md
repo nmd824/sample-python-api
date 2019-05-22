@@ -1,9 +1,9 @@
-#Customer Data Model
+# Customer Data Model
 I've created a SQL file to create this table as well as some sample data in the folder "Customer Data Model".
 
 The SQL query to names of the youngest customers is also in the "Customer Data Model" folder.
 
-#Basic JSON API App
+# Basic JSON API App
 In order to run, there has to be a database called "gigacover" and a table called "customers". 
 
 I'm using gunicorn as the Web Server Gateway Interface. 
@@ -28,6 +28,6 @@ As it was a simple implementation, I did not perform any error handlings. Also, 
 
 Honestly, I'm not really sure if what I did is correct but it seems to be working from what I can tell.
 
-#Postman collection
+# Postman collection
 
 Postman collection: [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c5514f4b5ad06a957147)
